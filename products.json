@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "name": "Pink Sofa",
+        "price": 200,
+        "image": "./sofi8.png"
+    },
+
+
+    {
+        "id":2,
+        "name": "White Sofa",
+        "price": 250,
+        "image": "./sofi1.png"
+    },
+
+
+    {
+        "id":3,
+        "name": "Grey Sofa",
+        "price": 210,
+        "image": "./sofi2.png"
+    },
+
+    {
+        "id":4,
+        "name": "Off White Sofa",
+        "price": 300,
+        "image": "./sofi7.png"
+    },
+
+    {
+        "id":5,
+        "name": "Black Sofa",
+        "price": 320,
+        "image": "./sofi4.png"
+    },
+
+    {
+        "id":6,
+        "name": "Pure White Sofa",
+        "price": 380,
+        "image": "./sofi5.png"
+    },
+
+    {
+        "id":7,
+        "name": "Greyish Sofa",
+        "price": 410,
+        "image": "./sofi6.png"
+    },
+
+    {
+        "id":8,
+        "name": "Baby Pink Sofa",
+        "price": 490,
+        "image": "./sofi9.png"
+    }
+
+]
